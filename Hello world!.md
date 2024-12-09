@@ -22,4 +22,4 @@ def pippo:
     return 1*2
 ```
 
-[[index]]
+[[content/index]]
